@@ -1,4 +1,4 @@
-const API_KEY = 'pub_c2ce66a8ea1c43c2b876aebdd5648373';
+const API_KEY = 'pub_50399fe8e22241caa1ef2776a36dbef2';
 const BASE_URL = 'https://newsdata.io/api/1/news';
 
 // Cache to store API responses
